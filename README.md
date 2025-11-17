@@ -71,3 +71,9 @@ To run these notebooks, you'll need a Python environment with several scientific
     ```
 
 4.  Open `1.Creating_an_Image.ipynb` to start the lecture.
+
+---
+
+## Credits
+
+This lecture and its associated notebooks were created by ESSABBAR AbdelMounm **@mouneem**.
