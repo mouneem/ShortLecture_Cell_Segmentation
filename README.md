@@ -1,4 +1,4 @@
-# Short Lecture: From Classic to Modern Cell Segmentation
+# Short Lecture: Introduction to Cell Segmentation with Python
 
 This repository contains a series of Python notebooks for a short lecture on cell segmentation. The notebooks guide the user from the fundamentals of digital images, through "old-school" classical computer vision techniques (like thresholding and watershed), and finally to modern, deep-learning-based methods (Cellpose and StarDist).
 
